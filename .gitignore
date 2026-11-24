@@ -1,0 +1,7 @@
+# Private lab data, logins, sessions, and saved email credentials - never publish
+colony-data/
+
+# OS cruft
+.DS_Store
+__MACOSX/
+Thumbs.db
