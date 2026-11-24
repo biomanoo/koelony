@@ -17,6 +17,21 @@ Captured from the built-in demo mode (sample data only).
 
 More: [sign-in screen](screenshots/login.png), [strains](screenshots/strains.png).
 
+### Settings
+
+| | |
+|---|---|
+| ![Settings: themes and options](screenshots/settings.png) | ![Settings: colony rules, data and sounds](screenshots/settings-data-sounds.png) |
+
+### Mouse World
+
+Turn on **Mouse World home** in Settings and the home screen becomes a living mouse. Tap its ears, eyes, heart, paws or tail to dive into that part of the app; the whiskers are shortcuts.
+
+| | |
+|---|---|
+| ![Mouse World option in Settings](screenshots/settings-mouse-world.png) | ![Mouse home screen](screenshots/mouse-home.png) |
+| ![Inside the tail: Activity](screenshots/mouse-home-dive.png) | |
+
 ## Features
 
 - Today view with the day's tasks: weans due, biopsies, genotyping, and more
