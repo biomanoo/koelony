@@ -8,7 +8,14 @@ Current version: **V139**
 
 ## Screenshots
 
-_(coming soon)_
+Captured from the built-in demo mode (sample data only).
+
+| | |
+|---|---|
+| ![Today view](screenshots/today.png) | ![Cages map](screenshots/cages.png) |
+| ![Breedings](screenshots/breedings.png) | ![Mice list](screenshots/mice.png) |
+
+More: [sign-in screen](screenshots/login.png), [strains](screenshots/strains.png).
 
 ## Features
 
